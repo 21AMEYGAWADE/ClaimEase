@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>images/life_insurance.png</ImageUrl>
+		<Height>300</Height>
+		<Width>300</Width>
+	</Ad>
+	<Ad>
+		<ImageUrl>images/health_insurance.png</ImageUrl>
+		<Height>300</Height>
+		<Width>300</Width>
+</Ad>
+	<Ad>
+		<ImageUrl>images/vehicle_insurance.png</ImageUrl>
+		<Height>300</Height>
+		<Width>300</Width>
+	</Ad>
+</Advertisements>

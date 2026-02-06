@@ -1,0 +1,241 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: "Poppins",  serif;
+}
+
+body {
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 20px;
+    color: white;
+}
+
+.aboutus {
+    background-color: black;
+    height: 80px;
+}
+
+.content {
+    height: 1080px;
+    background-color: #FFE1FF;
+}
+
+.main {
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 550px;
+    margin-top: 5px;
+}
+
+.main1 {
+    color: black;
+    font-size: 1.2rem;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.main2 {
+    color: black;
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: absolute;
+    margin-top: 200px;
+}
+
+.main3 {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: absolute;
+    margin-top: 240px;
+    padding: 5px;
+}
+
+.main4 {
+    color: black;
+    font-size: 1.2rem;
+    margin-left: 270px;
+    margin-right: 400px;
+    position: absolute;
+    margin-top: 240px;
+    padding: 5px;
+}
+
+.main5 {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: absolute;
+    margin-top: 305px;
+    padding: 5px;
+}
+
+.main6 {
+    color: black;
+    font-size: 1.2rem;
+    margin-left: 270px;
+    margin-right: 400px;
+    position: absolute;
+    margin-top: 305px;
+    padding: 5px;
+}
+
+.main7 {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: absolute;
+    margin-top: 370px;
+    padding: 5px;
+}
+
+.main8 {
+    color: black;
+    font-size: 1.2rem;
+    margin-left: 220px;
+    margin-right: 400px;
+    position: absolute;
+    margin-top: 370px;
+    padding: 5px;
+}
+
+.main9 {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: absolute;
+    margin-top: 465px;
+    padding: 5px;
+}
+
+.main10 {
+    color: black;
+    font-size: 1.2rem;
+    margin-left: 300px;
+    margin-right: 400px;
+    position: absolute;
+    margin-top: 465px;
+    padding: 5px;
+}
+
+.main11 {
+    color: black;
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-left: 500px;
+    margin-right: 40px;
+    position: absolute;
+    margin-top: 550px;
+    padding: 20px;
+}
+
+.main12 {
+    color: black;
+    font-size: 1.2rem;
+    margin-left: 500px;
+    margin-right: 10px;
+    position: absolute;
+    margin-top: 600px;
+    padding: 20px;
+}
+
+.main13 {
+    color: black;
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-left: 500px;
+    margin-right: 40px;
+    position: absolute;
+    margin-top: 700px;
+    padding: 20px;
+}
+
+.main14 {
+    color: black;
+    font-size: 1.2rem;
+    margin-left: 500px;
+    margin-right: 10px;
+    position: absolute;
+    margin-top: 750px;
+    padding: 20px;
+}
+
+.main15 {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 10px;
+    position: absolute;
+    margin-top: 930px;
+    padding: 5px;
+}
+
+.img1 {
+    height: 330px;
+    width: 350px;
+    border: 2px solid black;
+    margin-top: 200px;
+    margin-left: 1100px;
+    border-radius: 50px;
+    position: absolute;
+    border: double;
+}
+
+.img2 {
+    height: 350px;
+    width: 400px;
+    border: 2px solid black;
+    margin-top: 560px;
+    margin-left: 60px;
+    border-radius: 50px;
+    position: absolute;
+    border: double;
+}
+
+.footer {
+    background-color: #230d2e;
+    height: 80px;
+}
+
+.logo {
+    height: 60px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.f1 {
+    color: white;
+    font-size: 0.6rem;
+    margin-left: 10px;
+    margin-right: 90px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.logo1 {
+    height: 50px;
+    width: 200px;
+    margin-left: 1250px;
+    margin-top: 25px;
+}
